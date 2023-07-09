@@ -46,7 +46,8 @@
 ###
 
 <br clear="both">
-<img align="center" height="200" src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png"  />
+<img align="center" height="300" src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png"  />
+<br clear="both">
 </div>
 
 ###
