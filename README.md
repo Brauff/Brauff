@@ -9,7 +9,7 @@
 
 <br><br>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo">
   <img width="18">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo">
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo">
 </div>
 
-<div align="center">
+<div align="left">
   <a href="@braufdesign" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">
   </a>
@@ -40,5 +40,7 @@
 <br clear="both">
 <br clear="both">
 <br clear="both">
-<img align="center" height="300" src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" alt="project image">
+<div align="center">
+  <img align="center" height="300" src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" alt="project image">
+</div>
 <br clear="both">
