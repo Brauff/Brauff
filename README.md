@@ -47,7 +47,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{brauff}}/{{brauff}}/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
