@@ -47,20 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brauff/brauff/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/hdjfbwtk7v3k953o0pwelrx2a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+![Snake animation](https://github.com/{{brauff}}/{{brauff}}/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
