@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/NCRq4JgKRd0KvgGMzp/giphy.gif"/>
 
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,8 +29,8 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
+
 <br>
-###
 
 <div align="left">
   <a href="@braufdesign" target="_blank">
@@ -45,7 +45,7 @@
   </a>
 </div>
 <br>
-###
+
 
 <br clear="both">
 <img align="center" height="300" src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png"  />
